@@ -1,2 +1,1 @@
-to create file _ touch
-to write init _ vi up_to_date
+ - up_to_date doesn't contain: ["git pull"]
